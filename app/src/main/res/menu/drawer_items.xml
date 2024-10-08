@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/cgpa_calculator"
+        android:id="@+id/navCalculator"
+        android:title="CGPA Calculator"
+        />
+    <item
+        android:icon="@drawable/events"
+        android:id="@+id/navEvents"
+        android:title="Events"
+        />
+    <item
+        android:icon="@drawable/baseline_assistant_24"
+        android:id="@+id/navAccess"
+        android:title="ACCESS"
+        />
+    <item
+        android:icon="@drawable/baseline_person_24"
+        android:id="@+id/navPlacement"
+        android:title="Placement"
+        />
+    <item
+        android:id="@+id/navSem1"
+        android:title="Sem-1"
+        />
+    <item
+        android:id="@+id/navSem2"
+        android:title="Sem-2"
+        />
+    <item
+        android:id="@+id/navSem3"
+        android:title="Sem-3"
+        />
+    <item
+        android:id="@+id/navSem4"
+        android:title="Sem-4"
+        />
+    <item
+        android:id="@+id/navSem5"
+        android:title="Sem-5"
+        />
+    <item
+        android:id="@+id/navSem6"
+        android:title="Sem-6"
+        />
+    <item
+        android:id="@+id/navSem7"
+        android:title="Sem-7"
+        />
+    <item
+        android:id="@+id/navSem8"
+        android:title="Sem-8"
+        />
+
+</menu>
